@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es repositorio del modulo 2 del prepcourse de henry 
+preuba de como crear un repositorio y clonarlo desde githup a mi computador 
